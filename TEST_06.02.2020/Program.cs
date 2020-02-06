@@ -13,6 +13,8 @@ namespace TEST_06._02._2020
             Mieszkanie.insertingmieszkanie();
             Mieszkanie.displaymieszkania();
             Console.ReadKey();
+
         }
+
     }
 }
