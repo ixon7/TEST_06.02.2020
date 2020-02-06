@@ -11,6 +11,8 @@ namespace TEST_06._02._2020
         {
             Console.WriteLine("Hello World!");
             Mieszkanie.insertingmieszkanie();
+            Mieszkanie.displaymieszkania();
+            Console.ReadKey();
         }
     }
 }
