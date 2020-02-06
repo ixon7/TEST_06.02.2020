@@ -7,6 +7,9 @@ namespace TEST_06._02._2020
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            //hallo
+            Console.WriteLine("Hello World2!");
+
         }
     }
 }
